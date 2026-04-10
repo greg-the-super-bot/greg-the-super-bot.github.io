@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Greg the Superbot Privacy Policy</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; line-height: 1.6; }
+        h1, h2 { color: #b22222; }
+        .hero { text-align: center; font-size: 2.5em; margin-bottom: 10px; }
+    </style>
+</head>
+<body>
+    <h1 class="hero">Greg the Superbot</h1>
+    <h2>Privacy Policy</h2>
+    <p><strong>Effective Date:</strong> April 10, 2026</p>
+    
+    <p>Welcome, citizen! Greg the Superbot (“Greg”, “we”, “us”, or “our”) is a snarky AI superhero Alexa skill built to handle your smart home, spit out recipes, check the weather in Little Rock (or wherever you’re hiding), set reminders, and occasionally save the day — all while throwing in theatrical roasts.</p>
+    
+    <h2>What Information Do We Collect?</h2>
+    <p>Greg does **not** collect, store, or share any personal information from you.</p>
+    <ul>
+        <li>We do not ask for or store your name, email, address, voice recordings, or any other personally identifiable information.</li>
+        <li>Any voice commands you give to Alexa are handled entirely by Amazon’s Alexa service. We only receive the processed intent (e.g., “turn on the living room lights” or “what’s the recipe for a protein shake?”).</li>
+        <li>For smart home features, we may receive device names and basic control commands through Amazon’s Smart Home API — no personal data is attached.</li>
+        <li>Location (city-level) may be used temporarily for weather forecasts if you ask, but it is not stored by us.</li>
+    </ul>
+    
+    <h2>How Do We Use the Information?</h2>
+    <p>We use the minimal data needed only to deliver the requested superhero assistance — nothing more. No profiling, no advertising, no selling your data to villains.</p>
+    
+    <h2>Data Storage and Security</h2>
+    <p>Greg stores zero personal data. Once your request is fulfilled, any temporary session info is discarded. We take your privacy as seriously as we take flexing in spandex.</p>
+    
+    <h2>Third Parties</h2>
+    <p>
+        • Amazon handles all voice processing, skill hosting, and any smart home integrations.<br>
+        • ElevenLabs provides the voice (ID: keM422lpcE2sW8sj55E1) — they process audio only as instructed by the skill and do not receive any user-identifiable data from us.
+    </p>
+    <p>We do not share any data with other third parties.</p>
+    
+    <h2>Your Rights</h2>
+    <p>You can manage your Alexa data directly through Amazon’s privacy settings (Alexa app → Settings → Alexa Privacy). To stop using Greg, just disable the skill.</p>
+    
+    <h2>Changes to This Policy</h2>
+    <p>We may update this policy occasionally. The latest version will always be posted here. Continued use of the skill after changes means you accept the updated policy.</p>
+    
+    <h2>Contact Us</h2>
+    <p>If you have questions about this privacy policy, reach out to: <strong>your.email@example.com</strong> (replace with your real contact).</p>
+    
+    <p style="margin-top: 50px; font-size: 0.9em; color: #666;">
+        This privacy policy is for the Alexa skill “Greg the Superbot” / “Super Snark” only. 
+        Your interactions with Alexa itself are governed by <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=468496">Amazon’s Privacy Notice</a>.
+    </p>
+</body>
+</html>
